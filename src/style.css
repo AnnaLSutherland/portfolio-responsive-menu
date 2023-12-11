@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+/* font-family: 'Noto Serif JP', serif;  
+font-family: 'Montserrat', sans-serif; */
+
+:root {
+  --primary-color: #f3f2f2;
+  --secondary-color: rgb(73, 71, 91);
+  --branding-color: #da4a69;
+  --tint-color: #d6cfcb;
+  --display-font-family: "Noto Serif JP", serif;
+  --default-font-family: "Montserrat", sans-serif;
+}
